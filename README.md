@@ -40,7 +40,6 @@ I am an Assistant Professor at the University of South Florida working at the in
 - Home
 - News
 - Publications
-- Projects
 - Students
 - Teaching
 - Service
