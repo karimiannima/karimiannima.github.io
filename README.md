@@ -52,7 +52,6 @@ I am an Assistant Professor at the University of South Florida working at the in
 
 - NSF CAREER Award (2024)
 - Stanford & Elsevier World's Top 2% Scientists (2023–2024)
-- Best Paper Award – IEEE Silicon Valley Cybersecurity Conference (2025)
 - More than $1.2M in competitive research funding
 
 ---
