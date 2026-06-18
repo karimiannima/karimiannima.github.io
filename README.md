@@ -56,7 +56,7 @@ Bellini College of Artificial Intelligence, Cybersecurity and Computing
 
 University of South Florida
 
-📧 nkarimian@usf.edu
+📧 nkarimian at usf dot edu
 
 🌐 https://karimiannima.github.io/
 
