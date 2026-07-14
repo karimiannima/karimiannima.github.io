@@ -10,17 +10,14 @@ University of South Florida.
 
 ## Features
 
-- 🎓 Modern academic homepage
-- 📄 Publications with filtering
+- 🎓 Academic homepage
+- 📄 Selected Publications
 - 🔬 Research projects
 - 👨‍🎓 Students
 - 📚 Teaching
 - 💼 Professional service
 - 🏆 Awards
 - 📈 Google Scholar metrics
-- 🌍 Live visitor map
-- 🌙 Dark / Light mode
-- 📱 Fully responsive design
 
 ---
 
